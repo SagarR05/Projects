@@ -1,0 +1,23 @@
+#body{
+    height:2000px;
+   
+}
+#navbtn{
+    color:yellow;
+}
+#kbimg{
+    height:500px;
+    width:100px;
+}
+#para{
+    margin: auto;
+}
+#subdiv{
+    
+    height:400px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    
+}
